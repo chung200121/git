@@ -1,2 +1,6 @@
 chung
+<<<<<<< HEAD
 aaaa
+=======
+đỉnh của chóp
+>>>>>>> f43b22ad492a26f077cf80ff628c938929ed3320
